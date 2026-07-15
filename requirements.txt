@@ -1,0 +1,7 @@
+keyboard
+rich
+lxml
+pywin32
+beautifulsoup4
+mouse
+dnspython
